@@ -1,5 +1,5 @@
-#Create a playlist with random tracks from your saved tracks collection in Spotify.
-###This is a python script, if you want to make your own random playlist here are the requirements and steps to follow:
+# Create a playlist with random tracks from your saved tracks collection in Spotify.
+### This is a python script, if you want to make your own random playlist here are the requirements and steps to follow:
 Requirements:
 - Spotify Account
 - Python 3.x
